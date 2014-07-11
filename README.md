@@ -8,10 +8,8 @@ Rewamped for flat-minimalism by Deevad in 2014, using mainly #d2d2d2 color and b
 A dark, compact and minimalistic theme for XFCE desktop ( xfm4 windows-manager ). 
 
 ### Easy install :
-``
-git clone https://github.com/Deevad/Darkcompact_xfwm4-theme.git
-sudo cp -R Darkcompact_xfwm4-theme/ /usr/share/themes/
-``
+``git clone https://github.com/Deevad/Darkcompact_xfwm4-theme.git``
+``sudo cp -R Darkcompact_xfwm4-theme/ /usr/share/themes/``
 
 Then in the user configuration, change the Window Manager theme. 
 
